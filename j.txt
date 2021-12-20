@@ -4,3 +4,6 @@ main branch after merged with lecture 1
 
 lecture 1
 
+
+
+we have opened it in another vscode
